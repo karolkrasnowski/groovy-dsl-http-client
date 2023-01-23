@@ -9,4 +9,4 @@ send GET to 'https://jsonplaceholder.typicode.com/todos/1' withConfig {
 }
 ```
 
-All details are described in the blog post https://medium.com/@codeplanet/how-to-write-dsl-in-groovy-6a4aabe2049e
+All details are described in the blog post https://krasnowski.medium.com/how-to-write-dsl-in-groovy-6a4aabe2049e
